@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("./textures/background.jpg");
+  background-size: cover;
+  backdrop-filter: brightness(20%);
+}
+#three-canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
